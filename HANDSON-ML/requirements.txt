@@ -17,7 +17,7 @@ scikit-learn==0.22
 xgboost==1.0.2
 
 # Optional: the transformers library is only using in chapter 16
-transformers==2.8.0
+transformers==4.30.0
 
 ##### TensorFlow-related packages
 
