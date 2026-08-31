@@ -78,7 +78,7 @@ pyglet==1.5.0
 joblib==0.14.1
 
 # Easy http requests
-requests==2.23.0
+requests==2.31.0
 
 # Nice utility to diff Jupyter Notebooks.
 nbdime==2.0.0
